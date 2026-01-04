@@ -16,3 +16,10 @@ Output
 _© 2022 XYZ, Inc._
 
 This project demonstrates a simple Git workflow.
+
+git checkout main
+git merge bug-fix-typo
+
+1 file changed
+
+Bug fix revert branch change.
